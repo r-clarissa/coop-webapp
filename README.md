@@ -7,7 +7,7 @@ This project is a web application for data automation, management, and visualiza
 ![rodeo](https://user-images.githubusercontent.com/70369183/216235423-4e5feb5e-8a0c-4ac6-b94b-247078c2b614.png)
 
 ### Specifications
-* displays summarized statistical percentage per fields
+* displays summarized statistical percentage per field
 * searches and filters the desired groups or single coop information
 * generates coop profile based on their input data 
 * allows coops to manage their own data (create, read, update, delete)
