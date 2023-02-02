@@ -11,6 +11,7 @@ This project is a web application for data automation, management, and visualiza
 * searches and filters the desired groups or single coop information
 * generates coop profile based on their input data 
 * allows coops to manage their own data (create, read, update, delete)
+* outputs an updated screencap of the coop profile and sends to the admin and the coop
 
 ### Built With
 * JavaScript
