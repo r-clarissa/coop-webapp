@@ -8,7 +8,7 @@ This project is a web application for data automation, management, and visualiza
 
 ### Specifications
 * displays summarized statistical percentage per fields
-* searches and filters the desired groups of or single coop information
+* searches and filters the desired groups or single coop information
 * generates coop profile based on their input data 
 * allows coops to manage their own data (create, read, update, delete)
 
