@@ -18,4 +18,4 @@ This project is a web application for data automation, management, and visualiza
 * CSS
 
 # Special Note
-Since this is an internship project, only some of the template source code are shown. For confidentiality, it cannot also be run locally. Howeveer, you may email me at cgrodriguez@up.edu.ph if you have any questions given that the purpose is validated.
+Since this is an internship project, only some of the template source code are shown. For confidentiality, it cannot also be run locally. However, you may email me at cgrodriguez@up.edu.ph if you have any questions given that the purpose is validated.
