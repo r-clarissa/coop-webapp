@@ -1,0 +1,231 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;700&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+.organization-container {
+    width: 90%;
+    /* border: 1px solid green; */
+    border-radius: 10px;
+    margin: auto;
+    font-family: "Poppins";
+}
+
+.org-name {
+    border-bottom: 2px solid black;
+}
+
+.org-name h1 {
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.data-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.col1 {
+    width: 25%;
+    margin-top: 10px;
+    border-right: 1px solid gray;
+    padding-left: 5px;
+    padding-right: 5px;
+    /* border: 1px solid black; */
+}
+
+.address {
+    font-size: 0;
+    padding-top: 5px;
+}
+
+.address p{
+    font-size: 15px;
+    margin: 0;
+}
+
+.address p:nth-child(1){
+    font-weight: 400;
+    color: gray;
+}
+
+.address p:nth-child(2){
+    font-weight: 700;
+    color: green;
+}
+
+.registration {
+    /* border: 1px solid red; */
+    padding-top: 5px;
+    font-size: 0;
+}
+
+.registration p{
+    font-size: 15px;
+    margin: 0;
+}
+
+.registration h1 {
+    margin: 0;
+    font-size: 25px;
+}
+
+.business-type {
+    padding-top: 5px;
+    font-size: 0;
+}
+
+.business-type p {
+    font-size: 15px;
+    font-weight: 700;
+    margin: 0;
+}
+
+.business-type p:nth-child(1) {
+    background-color: maroon;
+    display: inline-block;
+    padding: 5px;
+    text-align: center;
+    color: white;
+}
+
+.business-type p:nth-child(2) {
+    display: inline-block;
+    padding: 5px;
+}
+
+.information-container div:nth-child(3) {
+    border-bottom: none;
+}
+
+.organization-information {
+    border-bottom: 2px solid gray;
+    padding-top: 5px;
+    font-size: 0;
+}
+
+.organization-information p{
+    font-size: 15px;
+    margin: 0;
+}
+
+.organization-information p:nth-child(1){
+    font-weight: 400;
+    color: gray;
+}
+
+.organization-information p:nth-child(2){
+    font-weight: 700;
+}
+
+.membership-information-container {
+    border-top: 2px solid black;
+    padding-top: 5px;
+}
+
+.membership-information-container h1{
+    font-size: 25px;
+    margin: 0;
+    color: maroon;
+}
+
+.member-information {
+    padding-top: 5px;
+}
+
+.member-information p{
+    margin: 0;
+    font-weight: 700;
+    font-size: 15px;
+}
+
+.member-information p:nth-child(1) {
+    color: gray;
+}
+
+.col2 {
+    width: 25%;
+    margin-top: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-right: 1px solid gray;
+}
+
+.col2-information-container {
+    width: 100%;
+    border-bottom: 2px solid black;
+    padding-bottom: 10px;
+}
+
+.col2-information-container h1 {
+    font-size: 25px;
+    color: maroon;
+    font-weight: 700;
+}
+
+.col2-information {
+    font-weight: 700;
+    padding-top: 10px;
+}
+
+.col2-information p {
+    font-size: 15px;
+    margin: 0;
+    text-align: justify;
+}
+
+.col2-information p:nth-child(1) {
+    color: green;
+}
+
+.col3 {
+    width: 50%;
+    margin-top: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+    /* border: 1px solid green; */
+}
+
+.col3 h1{
+    font-size: 25px;
+    color: maroon;
+}
+
+.graph {
+    width: 100%;
+    height: 40vh;
+    margin: auto;
+    border: 1px solid red;
+}
+
+.finance-data-container {
+    margin: auto;
+    margin-top: 10px;
+    /* border: 1px solid green; */
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: 1fr;
+    grid-column-gap: 5px;
+    grid-row-gap: 5px;
+}
+
+.assets{
+    margin-top: 10px;
+    /* border: 1px solid blue; */
+}
+
+.assets p:nth-child(1){
+    font-size: 15px;
+    font-weight: 700;
+    color: maroon;
+    margin: 0;
+}
+
+.assets p:nth-child(2){
+    font-size: 30px;
+    font-weight: 700;
+    color: black;
+    margin: 0;
+}
