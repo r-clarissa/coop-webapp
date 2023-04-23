@@ -4,7 +4,7 @@ This project is a web application for data automation, management, and visualiza
 - cooperatives' profile
 - dynamic live database
 
-![rodeo](https://user-images.githubusercontent.com/70369183/216235423-4e5feb5e-8a0c-4ac6-b94b-247078c2b614.png)
+![5](https://user-images.githubusercontent.com/70369183/233827961-50375f49-f59a-4956-a9dc-825840057e45.png)
 
 ### Specifications
 * displays summarized statistical percentage per field
